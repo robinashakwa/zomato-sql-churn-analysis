@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,area,cuisine_type,avg_rating
+1,Meghana Foods,Koramangala,Biryani,4.4
+2,CTR,Malleshwaram,South Indian,4.6
+3,Truffles,Koramangala,Burgers,4.3
+4,Empire Restaurant,Church Street,North Indian,4.1
+5,Vidyarthi Bhavan,Gandhi Bazaar,South Indian,4.7
+6,Toit Brewpub,Indiranagar,Continental,4.2
+7,Brahmin Coffee Bar,Basavanagudi,South Indian,4.5
+8,Shivaji Military Hotel,Jayanagar,Mutton,4.0
+9,Nagarjuna,Residency Road,Andhra,4.3
+10,Corner House,Koramangala,Desserts,4.5
+11,Manis Cafe,Malleshwaram,South Indian,4.6
+12,Koshys,St Marks Road,Continental,4.2
+13,Fatty Bao,Indiranagar,Asian,4.1
+14,The Black Rabbit,Koramangala,Continental,3.9
+15,Punjab Grill,UB City,North Indian,4.0
+16,Hole in the Wall Cafe,Koramangala,Cafe,4.2
+17,Byg Brewski,Hennur,Continental,4.3
+18,Sanchez,Indiranagar,Mexican,4.0
+19,Chianti,Indiranagar,Italian,4.1
+20,Karavalli,Taj Gateway,Coastal,4.6
